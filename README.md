@@ -5,3 +5,4 @@
      [Algorithm Design and Analysis NTU,TW](https://www.csie.ntu.edu.tw/~yvchen/f108-ada/)
      [(link to Youtube)](https://www.youtube.com/playlist?list=PLOAQYZPRn2V5C4Cx5tSLW8z0saWUm8LD-)
      
+-3- Algorithms, 4th edition by Robert Sedgewick and Kevin Wayne [[COS226]](https://www.cs.princeton.edu/courses/archive/spring20/cos226/lectures.php)
